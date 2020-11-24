@@ -5,3 +5,8 @@
 ## Eureka注册中心
 ## Ribbon负载均衡
 ## Hystrix熔断器
+## Feign伪装请求
+## Gateway网关
+## Config分布式配置中心
+## Bus服务总线
+## 总结
